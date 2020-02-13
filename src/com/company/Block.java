@@ -18,6 +18,7 @@ class Block {
         this.timeStamp = new Date().getTime();
         this.merkleRootHash = calculateMerkleRootHash();
         this.blockId = calculateHash();
+        System.out.println("This is a change made by Jotham");
     }
 
     public String getBlockId() {
