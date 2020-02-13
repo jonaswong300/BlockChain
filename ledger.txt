@@ -1,0 +1,4 @@
+Jonas Pays Felicia 10 dollars
+Felicia Pays Alice 15 dollars
+Alice Pays Bob 20 dollars
+Bob Pays Jonas 25 dollars

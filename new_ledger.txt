@@ -1,0 +1,12 @@
+Jonas Pays Felicia 10 dollars.
+0000c917a864e1f76b358f32cc5637f816e86912c000ea9cadcb17c2edad65f6
+
+Felicia Pays Alice 15 dollars.
+00000b285c039f11aebba1cd5562e299e8a216c2a87cab16ddf588d2fee1c014
+
+Alice Pays Bob 20 dollars.
+0000834bd16fde70959c2a5f37eb4f2dca9a0020fbf116fd44fbad110d92824a
+
+Bob Pays Jonas 25 dollars.
+000033c3980154e4fbfe67dd8cebcc8f5e6195d13b1ac94823a94a6988745996
+
